@@ -2,7 +2,7 @@ import { Button } from "@jobber/components/Button";
 import { Disclosure } from "@jobber/components/Disclosure";
 import { Content } from "@jobber/components/Content";
 import { Text } from "@jobber/components/Text";
-import { useIsMounted } from "@jobber/hooks";
+import { useIsMounted } from "@jobber/hooks/useIsMounted";
 import "./App.css";
 
 function App() {
